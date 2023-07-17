@@ -1,5 +1,17 @@
 # Changelog
 
+### [3.0.1](https://www.github.com/jobara/hearth/compare/v3.0.0...v3.0.1) (2023-07-17)
+
+
+### Bug Fixes
+
+* resource collection test fails when APP_DEBUG=false (Resolves [#176](https://www.github.com/jobara/hearth/issues/176)) ([#177](https://www.github.com/jobara/hearth/issues/177)) ([448cf92](https://www.github.com/jobara/hearth/commit/448cf9231d4aa1601b32fd4fc3b3d26617770cf4))
+
+
+### Miscellaneous Chores
+
+* **deps:** update codezero/laravel-unique-translation requirement ([#179](https://www.github.com/jobara/hearth/issues/179)) ([d5783f0](https://www.github.com/jobara/hearth/commit/d5783f07155503f901fa59a3fba342f1b93fb06b))
+
 ## [3.0.0](https://www.github.com/fluid-project/hearth/compare/v2.0.2...v3.0.0) (2022-08-30)
 
 
